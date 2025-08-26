@@ -1,5 +1,5 @@
 def check_vowels():
-    nombre = input("Ingrese nombre: ")
+    nombre = input()
     if "a" in nombre or "A" in nombre:
         print(f"Contiene a: {True}")
     else:
